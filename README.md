@@ -1,66 +1,64 @@
-<h1 align="center">Hi 👋, I'm Karan Himadri</h1>
-<h3 align="center">Aspiring Backend Developer | Problem Solver | Full-Stack Enthusiast</h3>
+# Himadri Karan
+
+**Full Stack Developer** | **Backend Engineer** | **Final-Year CSE Student**
+
+[🌐 Portfolio](https://himadri.me) • [🔗 LinkedIn](https://linkedin.com/in/karanhimadri) • [💻 GitHub](https://github.com/karanhimadri)
 
 ---
 
-### 🧑‍💻 About Me
+## 👋 About Me
 
-- 🎓 Final-year student passionate about backend development and building real-world applications
-- 🚀 Currently working with **Node.js**, **Express**, **MongoDB**, and exploring **Spring Boot**
-- 📘 Actively learning **DSA** (Arrays, Linked Lists, Trees, Graphs, etc.)
-- 🐳 Learning containerization with **Docker** and devops basics
+I'm a final-year Computer Science student with a builder mindset and a drive to solve real-world problems with clean, scalable code.  
+From REST APIs to real-time systems, I enjoy crafting both the engine and the interface of web applications.
 
----
-
-### 🛠️ Tech Stack
-
-**Backend:**  
-Node.js, Express.js, MongoDB, Spring Boot, JPA, MySQL
-
-**Frontend (Basic to Intermediate):**  
-React.js, Next.js, Tailwind CSS, Bootstrap
-
-**Mobile:**  
-Android Studio (Java/Kotlin)
-
-**Other Tools:**  
-Git, GitHub, Postman, Docker, Firebase, Stripe API, Cloudinary
+Currently exploring full-time opportunities as a **Full Stack Developer** or **Backend Engineer** in India.
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🩺 [Prescripto](https://github.com/karanhimadri/prescripto)
-Full-stack appointment booking system with role-based auth and Stripe payments.
-
-#### 🧠 [RAG-Based ChatBot](https://github.com/karanhimadri/RAG_Based_ChatBot)
-AI chatbot using Retrieval-Augmented Generation, ChromaDB, Gemini & Cohere APIs.
-
-#### 💻 [CodeLIVE](https://github.com/karanhimadri/CodeLIVE)
-Real-time collaborative code editor with chat and Socket.IO integration.
-
-#### 🧪 [Dream Diary – Automation Testing](https://github.com/karanhimadri/dream-diary-automation)
-Playwright-based UI testing with Gemini AI for dream classification.
-
-#### 📱 College Android App (Private/Coming Soon)
-Multi-role college system (Student, Teacher, HOD) with JWT auth, attendance tracking, routing, and admin control.
+**Languages:** Java, JavaScript (ES6+), Python, SQL  
+**Backend:** Spring Boot, Node.js, Express.js, REST APIs  
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+**Databases:** MySQL, MongoDB  
+**Tools & Platforms:** Git, Docker, Postman, Firebase, Vercel, Render
 
 ---
 
-### 📈 Currently Learning
+## 🚀 Featured Projects
 
-- 📚 Advanced DSA for interviews
-- 🧱 System design fundamentals
-- 🐳 Docker for backend deployments
-- 🧪 Advanced testing practices
+**🩺 Prescripto** – Healthcare Management System  
+End-to-end appointment booking app with role-based auth and Stripe payments.  
+[🔗 View Project](https://github.com/karanhimadri/prescripto)
+
+**💬 CodeLIVE** – Real-Time Code Collaboration  
+Collaborative editor with WebSocket integration and Google OAuth.  
+[🔗 View Project](https://github.com/karanhimadri/CodeLIVE)
+
+**🧠 RAG Assistant** – AI-Powered Chatbot  
+Gemini API + ChromaDB chatbot for smart document Q&A using RAG architecture.  
+[🔗 View Project](https://github.com/karanhimadri/RAG_Based_ChatBot)
+
+**🧪 Dream Diary Automation** – Testing Framework  
+Playwright-based E2E testing suite with AI-driven validation checks.  
+[🔗 View Project](https://github.com/karanhimadri/dream-diary-automation)
 
 ---
 
-### 📫 Connect with Me
+## 📈 Current Focus
 
-- [LinkedIn](https://www.linkedin.com/in/karanhimadri)
-- [GitHub](https://github.com/karanhimadri)
+- Cracking DSA problems (LeetCode, GFG) with a focus on coding rounds  
+- Learning system design & backend architecture patterns  
+- Exploring Docker and deployment pipelines  
+- Preparing for technical interviews (SDE & full stack roles)
 
 ---
 
-⭐ _Thanks for visiting my profile! Feel free to explore my projects and connect!_
+## 📬 Let’s Connect
+
+Open to full-time roles in software development.  
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/karanhimadri) or explore more at [himadri.me](https://himadri.me).
+
+---
+
+_📍 Actively seeking Full Stack and Backend Developer roles in India — available to join immediately._
