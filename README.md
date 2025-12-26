@@ -1,90 +1,111 @@
 # 👋 Hi, I'm Himadri Karan  
 
-**Full-Stack & AI Solutions Developer** | Building end-to-end web platforms & AI-powered applications  
+**Final-year Computer Science Student | Full-Stack & Backend Developer (Fresher)**  
+Interested in building clean, secure, and scalable web applications.
 
 📍 Kolkata, India  
+
+---
+
 ## 📫 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himadrikaran516@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himadri.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himadriakaran)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://www.himadri.me/himadri_resume.pdf)
+- 📧 Email: karanhimadri1234@gmail.com  
+- 🌐 Portfolio: https://himadri.me  
+- 💼 LinkedIn: https://linkedin.com/in/himadrikaran  
+- 💻 GitHub: https://github.com/karanhimadri  
 
 ---
 
-## 🔥 About Me  
-- 🌐 Full-stack developer experienced in **React, Next.js, Spring Boot, FastAPI, Node.js**  
-- 🤖 Worked hands-on with **LLMs, RAG pipelines, vector DBs, embeddings & AI-powered UX**  
-- 🛠 Skilled at **scalable backend APIs, microservices, and cloud deployments (Docker, Render, Railway)**  
-- 🔒 Strong focus on **security (JWT, RBAC, OAuth2, OTP-verification)**  
-- 🎯 Passionate about **AI-driven innovation, problem-solving, and creating impactful user experiences**  
+## 👨‍💻 About Me  
+
+- 🎓 Final-year B.Tech CSE student  
+- 🌐 Full-stack developer with hands-on experience in **React, Node.js, Java (Spring Boot)**  
+- 🔧 Comfortable building **REST APIs, authentication systems, and backend services**  
+- 🔐 Familiar with **JWT, OAuth, role-based access control, and basic security practices**  
+- 🤖 Beginner-level exposure to **AI-powered applications (LLMs, RAG basics)**  
+- 📚 Strong foundation in **Data Structures & Algorithms and core CS subjects**  
+- 🚀 Actively looking for **internships and entry-level software roles**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Technical Skills  
 
-**Languages**  
-`Python` • `Java` • `JavaScript` • `TypeScript` • `SQL`  
+### Programming Languages  
+`JavaScript` • `TypeScript` • `Java` • `Python` • `SQL`  
 
-**Frontend**  
-`React.js` • `Next.js 15` • `Tailwind CSS` • `Responsive Design`  
+### Frontend  
+`React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS`  
 
-**Backend**  
-`FastAPI` • `Spring Boot` • `Express.js` • `REST APIs` • `Microservices`  
+### Backend  
+`Node.js (Express)` • `Spring Boot` • `FastAPI` • `REST APIs`  
 
-**AI / RAG**  
-`Pinecone` • `Cohere` • `Google Gemini LLM` • `Semantic Search`  
+### Databases  
+`MySQL` • `PostgreSQL` • `MongoDB` • `Redis`  
 
-**Databases**  
-`MySQL` • `MongoDB` • `Redis`  
+### Tools & DevOps  
+`Git` • `GitHub` • `Docker (basic)` • `Postman` • `CI/CD (basic)`  
 
-**Cloud & DevOps**  
-`Docker` • `GitHub Actions` • `Render` • `Railway` • `Netlify` • `AWS (Basics)`  
+### Core Concepts  
+`Data Structures & Algorithms` • `OOP` • `DBMS` • `OS` • `Computer Networks`  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🧠 [RAG Chatbot](https://github.com/karanhimadri/RAG-Based-ChatBot)  
-Multi-domain AI Assistant using FastAPI, Next.js, Pinecone, and Gemini LLM.  
-- Reduced response latency **from 15s → 7s** via optimized retrieval  
-- Integrated **Supabase Auth** & Redis-based credit tracking  
-- Supports contextual Q&A across **Education, Finance, Healthcare, Environment, Agriculture**  
+### 🔹 CodeLive – Real-Time Collaborative Code Editor  
+**Tech Stack:** React, Node.js, Express, WebSocket, Socket.IO, Monaco Editor  
+
+- Built a real-time code editor where multiple users can collaborate in a shared room  
+- Implemented live code updates, chat, and room management  
+- Integrated Google OAuth for secure login  
+- Focused on real-time communication and frontend-backend integration  
 
 ---
 
-### 🏥 [Prescripto – Healthcare Platform](https://github.com/karanhimadri/prescripto-backend-springboot)  
-Full-stack healthcare management system with **Spring Boot + React + MySQL**.  
-- Role-based access: patients, doctors, admins  
-- Razorpay payments with **15% fewer failed transactions**  
-- Dockerized & deployed on Render with **90%+ uptime**  
+### 🔹 Prescripto – Healthcare Management Platform  
+**Tech Stack:** Spring Boot, React, MySQL, Docker  
+
+- Developed a full-stack healthcare system for patients, doctors, and admins  
+- Implemented appointment booking, payments, and admin dashboards  
+- Integrated Razorpay for online payments  
+- Followed clean backend architecture using Spring Boot  
 
 ---
 
-### 🔑 [MERN Authentication Microservice](https://github.com/karanhimadri/mern-authentication-microservice)  
-Production-ready authentication microservice using **Express, MongoDB, JWT**.  
-- Handles **1K+ daily login requests** (testing)  
-- OTP-based email verification → reduced fake accounts by **35%**  
-- Configured environment-specific production builds  
+### 🔹 AuthWatch – Authentication Service  
+**Tech Stack:** Node.js, Express, MongoDB, JWT, Docker  
+
+- Built a secure authentication system with JWT-based login  
+- Implemented OTP-based email verification  
+- Added unit and integration tests using Jest and Supertest  
+- Designed with MVC architecture for maintainability  
 
 ---
 
-### 📄 [KnowYourPDF](https://github.com/karanhimadri/KnowYourPDF)  
-Full-stack AI app that lets users **chat with PDFs** using LLM integration.  
-- Upload PDFs & ask contextual questions  
-- Built with **React, Express, Google Generative AI, Nodemailer**  
+### 🔹 KnowYourPDF – AI-Based PDF Q&A App  
+**Tech Stack:** React, Express, Google Generative AI  
+
+- Built an application that allows users to upload PDFs and ask questions  
+- Implemented basic LLM integration for contextual responses  
+- Focused on simple and user-friendly UI  
 
 ---
 
 ## 🏆 Certifications & Achievements  
-- 🎓 **AWS Academy Graduate – Cloud Foundations** (2025)  
-- 📚 **Agile Software Development for Enterprise Systems** – OpenLearn (2025)  
-- ☁️ **Microsoft Cloud & Networking Foundations** (2023)  
-- 🏅 **Google Solution Challenge – GDG on Campus (Hack2Skill, 2025)**  
+
+- 🏅 HackSpire’25 – 3rd Place (25-hour Hackathon)  
+- 📜 AWS Academy Graduate – Cloud Foundations  
+- 📜 Microsoft Cloud & Networking Foundations  
+- 🥇 HackerRank Gold Badge – Java  
+- 🥈 HackerRank Silver Badge – SQL  
 
 ---
 
-## 📫 Let’s Connect  
-💼 [LinkedIn](https://linkedin.com/in/himadrikaran) • 🌐 [Portfolio](https://himadri.me) • 📧 [Email](mailto:karanhimadri1234@gmail.com)  
+## 📌 Currently Learning  
+- Advanced backend development  
+- System design basics for freshers  
+- Improving problem-solving and DSA  
 
-✨ *Open to internships, full-stack roles, and AI-focused opportunities!*  
+---
+
+✨ *Open to internships, junior full-stack roles, backend roles, and SDE opportunities.*
