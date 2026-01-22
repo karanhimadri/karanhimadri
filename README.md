@@ -25,12 +25,12 @@ I build reliable automation frameworks, REST APIs, and scalable web systems usin
 
 **Languages:** Java • JavaScript • TypeScript • Python • SQL  
 **Automation:** Selenium • TestNG • Rest Assured • Playwright • POM  
-**Backend:** Spring Boot • REST APIs • Node.js (Express)  
+**Backend:** Spring Boot • REST APIs • Node.js  
 **Frontend:** React • HTML • CSS • Tailwind  
-**DB:** MySQL • PostgreSQL • MongoDB • Redis  
+**DB:** MySQL • PostgreSQL • MongoDB  
 **Tools:** Git • Docker • GitHub Actions CI/CD • Postman  
 **Testing & QA:** API Testing • Functional Testing • Regression Testing  
-**Core Concepts:** DSA • OOP • DBMS • OS • Networking
+**Core Concepts:** Data Structure & Algorithms • Software Testing • OOP • DBMS • OS • Networking
 
 ---
 
@@ -41,21 +41,20 @@ I build reliable automation frameworks, REST APIs, and scalable web systems usin
 - Built a stable automation framework for e-commerce workflows  
 - Implemented reusable page classes, explicit waits, and assertions  
 - Integrated CI with GitHub Actions  
-**Repo:** https://github.com/karanhimadri/automation-framework
+**Repo:** [ecommerce-automation-framework](https://github.com/karanhimadri/ecommerce-automation-framework)
 
 ### 🔹 **REST API Automation Framework**  
 **Tech:** Java • Rest Assured • TestNG • JSON  
 - Automated CRUD API validations with response assertions  
 - Validated status codes, headers, response time, and JSON body  
 - Built reusable request specs and test data structure  
-**Repo:** https://github.com/karanhimadri/your-api-repo
 
 ### 🔹 **Dream Diary Automation Testing**  
 **Tech:** Playwright • JavaScript • POM  
 - Built UI automation for core web workflows  
 - Implemented logging, screenshots, and HTML reporting  
 - Integrated AI validation using Gemini API  
-**Repo:** https://github.com/karanhimadri/Automated-Testing-for-Dream-Portal
+**Repo:** [Automated-Testing-using-GenAI](https://github.com/karanhimadri/Automated-Testing-for-Dream-Portal)
 
 ---
 
@@ -63,7 +62,8 @@ I build reliable automation frameworks, REST APIs, and scalable web systems usin
 - HackerRank Gold – Java  
 - HackerRank Silver – SQL  
 - AWS Academy Graduate – Cloud Foundations  
-- Microsoft Cloud & Networking Foundations  
+- Microsoft Cloud & Networking Foundations
+- Software Development Fundamentals (SDLC) - Simplilearn  
 - Smart India Hackathon – 3rd Place (College Level)  
 - HackSpire’25 – 25-hour Hackathon
 
