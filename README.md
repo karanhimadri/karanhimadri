@@ -1,78 +1,75 @@
-# 👋 Hi, I'm Himadri Karan  
+# 👋 Hi, I'm Himadri Karan
 
-**Final-year B.Tech CSE (2026) | Full-Stack & Backend Developer**  
-Building clean, secure, and scalable web applications.
+**Final-year B.Tech CSE (2026) | QA Automation & Backend Developer**  
+Building scalable backend systems and automation frameworks.
 
-📍 Kolkata, India  
+📍 Kolkata, India
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 - **Email:** [himadrikaran516@gmail.com](mailto:himadrikaran516@gmail.com)
 - **Portfolio:** [himadri.me](https://himadri.me)
 - **LinkedIn:** [linkedin.com/in/himadrikaran](https://linkedin.com/in/himadrikaran)
+- **GitHub:** [github.com/karanhimadri](https://github.com/karanhimadri)
 
 ---
 
-## 👨‍💻 About Me  
-I’m a final-year CSE student focused on backend and full-stack development. I build scalable REST APIs, authentication systems, and real-time web applications using Java, Spring Boot, Node.js, and React.
+## 💼 About Me
+I’m a final-year CSE student focused on QA Automation and backend development.  
+I build reliable automation frameworks, REST APIs, and scalable web systems using Java, Spring Boot, Selenium, and Rest Assured.
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills
 
-**Languages:** • Java • JavaScript • TypeScript • Python • SQL  
-**Frontend:** React • Next.js • HTML • CSS • Tailwind  
-**Backend:** Node.js (Express) • Spring Boot • REST APIs  
+**Languages:** Java • JavaScript • TypeScript • Python • SQL  
+**Automation:** Selenium • TestNG • Rest Assured • Playwright • POM  
+**Backend:** Spring Boot • REST APIs • Node.js (Express)  
+**Frontend:** React • HTML • CSS • Tailwind  
 **DB:** MySQL • PostgreSQL • MongoDB • Redis  
-**Tools:** Git • Docker • Github Action CI/CD  
-**Testing & Automation:** Selenium • TestNG • POM • Postman  
-**Core Concepts:** DSA • OOP • DBMS • OS • Networking  
+**Tools:** Git • Docker • GitHub Actions CI/CD • Postman  
+**Testing & QA:** API Testing • Functional Testing • Regression Testing  
+**Core Concepts:** DSA • OOP • DBMS • OS • Networking
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🔹 CodeLive – Real-Time Collaborative Code Editor  [Live](https://codelive.apps24.tech)  
-**Tech:** React, Node.js, Express, Socket.IO, Monaco Editor  
-- Real-time code collaboration with rooms & chat  
-- Google OAuth login  
-- AI-assisted code suggestions  
-- Focus on performance and reliability  
+### 🔹 **E-Commerce Automation Framework**  
+**Tech:** Java • Selenium • TestNG • Maven • POM • GitHub Actions  
+- Built a stable automation framework for e-commerce workflows  
+- Implemented reusable page classes, explicit waits, and assertions  
+- Integrated CI with GitHub Actions  
+**Repo:** https://github.com/karanhimadri/automation-framework
 
-### 🔹 Prescripto – Healthcare Management Platform  [Live](https://prescriptox.netlify.app)
-**Tech:** Spring Boot, React, MySQL, Docker  
-- Patient/Doctor/Admin modules  
-- Appointment booking + payment integration  
-- Clean backend architecture  
+### 🔹 **REST API Automation Framework**  
+**Tech:** Java • Rest Assured • TestNG • JSON  
+- Automated CRUD API validations with response assertions  
+- Validated status codes, headers, response time, and JSON body  
+- Built reusable request specs and test data structure  
+**Repo:** https://github.com/karanhimadri/your-api-repo
 
-### 🔹 AuthWatch – Authentication Service  
-**Tech:** Node.js, Express, MongoDB, JWT, Docker  
-- JWT-based auth with email OTP verification  
-- Unit & integration tests with Jest & Supertest  
-- MVC architecture for maintainability  
-
-### 🔹 RAG Assistant – Retrieval-Augmented Generation Chatbot  
-**Tech:** FastAPI, Cohere, Pinecone, Google Gemini, Next.js  
-- Full-stack RAG chatbot with citations  
-- Multi-domain knowledge bases  
-- Secure authentication and usage tracking  
-- Optimized for sub-second responses  
+### 🔹 **Dream Diary Automation Testing**  
+**Tech:** Playwright • JavaScript • POM  
+- Built UI automation for core web workflows  
+- Implemented logging, screenshots, and HTML reporting  
+- Integrated AI validation using Gemini API  
+**Repo:** https://github.com/karanhimadri/Automated-Testing-for-Dream-Portal
 
 ---
 
-## 🏆 Achievements  
-- AWS Academy Graduate – Cloud Foundations  
-- Microsoft Cloud & Networking Foundations
-- Smart India Hackethon (Inter-College) – 3rd Place
-- HackSpire’25 - 25 hours hackathon at Kolkata
+## 🏆 Achievements
 - HackerRank Gold – Java  
-- HackerRank Silver – SQL
-- Software Development Fundamentals - Simplelearn
+- HackerRank Silver – SQL  
+- AWS Academy Graduate – Cloud Foundations  
+- Microsoft Cloud & Networking Foundations  
+- Smart India Hackathon – 3rd Place (College Level)  
+- HackSpire’25 – 25-hour Hackathon
 
 ---
 
-## 📌 Currently Learning  
-System design basics, advanced backend, and DSA.
+## 📌 Currently Learning
+Advanced backend, system design basics, and DSA.
 
-✨ *Open to internships & entry-level roles (Backend / Full-Stack / SDE).*
+✨ *Open to internships & entry-level roles (QA Automation / SDET / Backend).*
