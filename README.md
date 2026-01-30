@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himadri Karan
 
-**Final-year B.Tech CSE (2026) | Java Backend Developer | Automation (Supporting)**  
+**Final-year B.Tech CSE (2026) | Software Engineer | Java Backend Developer
 Building Java-based backend systems with strong fundamentals in DSA and testable design.
 
 📍 Kolkata, India
