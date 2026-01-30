@@ -1,75 +1,88 @@
 # 👋 Hi, I'm Himadri Karan
 
-**Final-year B.Tech CSE (2026) | QA Automation & Backend Developer**  
-Building scalable backend systems and automation frameworks.
+**Final-year B.Tech CSE (2026) | Java Backend Developer | Automation (Supporting)**  
+Building Java-based backend systems with strong fundamentals in DSA and testable design.
 
 📍 Kolkata, India
 
 ---
 
 ## 📫 Connect With Me
-- **Email:** [himadrikaran516@gmail.com](mailto:himadrikaran516@gmail.com)
-- **Portfolio:** [himadri.me](https://himadri.me)
-- **LinkedIn:** [linkedin.com/in/himadrikaran](https://linkedin.com/in/himadrikaran)
-- **GitHub:** [github.com/karanhimadri](https://github.com/karanhimadri)
+- **Email:** himadri75.work@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/himadri516  
+- **GitHub:** https://github.com/karanhimadri  
 
 ---
 
 ## 💼 About Me
-I’m a final-year CSE student focused on QA Automation and backend development.  
-I build reliable automation frameworks, REST APIs, and scalable web systems using Java, Spring Boot, Selenium, and Rest Assured.
+I’m a final-year Computer Science student focused on **Java backend development** with hands-on experience in building RESTful services using **Spring Boot**, **JWT-based security**, and relational databases.
+
+Alongside backend development, I have experience in **QA Automation** using Selenium and REST Assured, which helps me write **reliable, testable, and quality-focused software**.
+
+I’m actively preparing for **entry-level Software Engineer / Java Backend roles** in service-based organizations.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-**Languages:** Java • JavaScript • TypeScript • Python • SQL  
-**Automation:** Selenium • TestNG • Rest Assured • Playwright • POM  
-**Backend:** Spring Boot • REST APIs • Node.js  
-**Frontend:** React • HTML • CSS • Tailwind  
-**DB:** MySQL • PostgreSQL • MongoDB  
-**Tools:** Git • Docker • GitHub Actions CI/CD • Postman  
-**Testing & QA:** API Testing • Functional Testing • Regression Testing  
-**Core Concepts:** Data Structure & Algorithms • Software Testing • OOP • DBMS • OS • Networking
+**Programming Languages:** Java, SQL, JavaScript, Python  
+**Backend Technologies:** Spring Boot, Spring Security, REST APIs, JWT, JPA/Hibernate  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Frontend (Basics):** React, HTML, CSS  
+**Automation & Testing:** Selenium WebDriver, TestNG, REST Assured, Page Object Model (POM)  
+**Tools & Platforms:** Git, GitHub, Docker, Postman, Apache Tomcat  
+**Core Concepts:** Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks, MVC Architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 **E-Commerce Automation Framework**  
-**Tech:** Java • Selenium • TestNG • Maven • POM • GitHub Actions  
-- Built a stable automation framework for e-commerce workflows  
-- Implemented reusable page classes, explicit waits, and assertions  
-- Integrated CI with GitHub Actions  
-**Repo:** [ecommerce-automation-framework](https://github.com/karanhimadri/ecommerce-automation-framework)
-
-### 🔹 **REST API Automation Framework**  
-**Tech:** Java • Rest Assured • TestNG • JSON  
-- Automated CRUD API validations with response assertions  
-- Validated status codes, headers, response time, and JSON body  
-- Built reusable request specs and test data structure  
-
-### 🔹 **Dream Diary Automation Testing**  
-**Tech:** Playwright • JavaScript • POM  
-- Built UI automation for core web workflows  
-- Implemented logging, screenshots, and HTML reporting  
-- Integrated AI validation using Gemini API  
-**Repo:** [Automated-Testing-using-GenAI](https://github.com/karanhimadri/Automated-Testing-for-Dream-Portal)
+### 🔹 **Prescripto – Doctor Appointment & Payment Platform**
+**Tech:** Java 17 • Spring Boot • React • MySQL • JWT • Docker  
+- Developed a full-stack healthcare platform with Patient, Doctor, and Admin roles  
+- Designed RESTful APIs for appointment booking, payments, and file uploads  
+- Implemented JWT-based authentication and role-based authorization  
+- Integrated Razorpay payment gateway for secure online transactions  
 
 ---
 
-## 🏆 Achievements
-- HackerRank Gold – Java  
-- HackerRank Silver – SQL  
+### 🔹 **Smart Task Scheduler – Greedy Algorithm Based**
+**Tech:** Java • PriorityQueue • Servlets • Apache Tomcat  
+- Built a Java web application demonstrating real-world use of DSA  
+- Implemented Greedy scheduling using PriorityQueue with custom comparator logic  
+- Achieved O(log n) time complexity for task insertion and removal  
+- Followed MVC architecture and deployed on Apache Tomcat  
+
+---
+
+### 🔹 **E-Commerce Automation Framework**
+**Tech:** Java • Selenium • TestNG • Maven • POM  
+- Built a scalable UI automation framework using Page Object Model  
+- Implemented reusable utilities, waits, and assertions  
+- Executed automated test suites for core e-commerce workflows  
+
+---
+
+### 🔹 **REST API Automation Framework**
+**Tech:** Java • REST Assured • TestNG  
+- Automated CRUD API validations for REST services  
+- Validated status codes, headers, response body, and response time  
+- Designed reusable request specifications and test data structure  
+
+---
+
+## 🏆 Certifications & Achievements
+- HackerRank Gold Badge – Java  
+- HackerRank Silver Badge – SQL  
 - AWS Academy Graduate – Cloud Foundations  
-- Microsoft Cloud & Networking Foundations
-- Software Development Fundamentals (SDLC) - Simplilearn  
-- Smart India Hackathon – 3rd Place (College Level)  
-- HackSpire’25 – 25-hour Hackathon
+- Microsoft Cloud & Networking Foundations  
+- Software Development Fundamentals (SDLC) – Simplilearn  
+- Smart India Hackathon – College Level  
+- HackSpire Hackathon (25-Hour)
 
 ---
 
 ## 📌 Currently Learning
-Advanced backend, system design basics, and DSA.
+Advanced Java concepts, backend best practices, and Data Structures & Algorithms.
 
-✨ *Open to internships & entry-level roles (QA Automation / SDET / Backend).*
+✨ *Open to entry-level Software Engineer / Java Backend roles. Automation skills used as a supporting strength.*
